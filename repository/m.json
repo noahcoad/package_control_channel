@@ -2594,6 +2594,17 @@
 			]
 		},
 		{
+			"name": "MOOSE",
+			"details": "https://github.com/elcarrillo/moose-sublime",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": ">=3092",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "More Layouts",
 			"details": "https://github.com/unknownuser88/morelayouts",
 			"author": "David Bekoyan",
